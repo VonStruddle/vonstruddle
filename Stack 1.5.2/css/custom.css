@@ -23,3 +23,31 @@
 .section__slider--no-padding-top {
     padding-top: 0;
 }
+
+.row__pillar-header--padding-bottom {
+    padding-bottom: 6em;
+}
+
+.h5__boxes--padding-bottom {
+    padding-bottom:  .2em;
+}
+
+.row__boxes--text-align-left h5 {
+    text-align: left;
+}
+
+.row__boxes--text-align-left h4 {
+    text-align: left;
+}
+
+.row__boxes--text-align-left p {
+    text-align: left;
+}
+
+.subscribe-form-2--no-padding-top {
+    padding: 0;
+}
+
+.p__lead--small-font {
+    font-size: 14px;
+}
