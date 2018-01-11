@@ -1,0 +1,21 @@
+/*! Place your custom styles here */
+.btn__header--secondary {
+    margin-top: 1.85714286em;
+}
+
+.menu-horizontal > .dropdown > .dropdown__trigger:after {
+    content: '';
+}
+
+.row__articles {
+    margin-top: 4em;
+}
+
+.card-2 .card__body--articles {
+    border-bottom: 1px solid #ececec;
+    border-radius: 0 0 6px 6px;
+}
+
+.card-2 .card__body--articles h4 {
+    font-size: 1.2em;
+}
