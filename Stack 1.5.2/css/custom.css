@@ -51,3 +51,17 @@
 .p__lead--small-font {
     font-size: 14px;
 }
+
+.bar .logo--margin-bottom {
+    margin-bottom: .8em;
+}
+
+.btn__article--margin {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.feature__article--margin {
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
