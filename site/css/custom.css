@@ -100,7 +100,31 @@
     font-size: 1em;
 }
 
+.p__chapter--reset {
+    color: #666666;
+    font-weight: 400;
+    font-size: 1em;
+    margin-bottom: 1.85714286em !important;
+}
+
 .footer--custom-padding {
     padding-top: 0;
     padding-bottom: 3rem;
+}
+
+.box-shadow-2 {
+    box-shadow: 8px 8px 20px 3px rgba(0, 0, 0, 0.08);
+}
+
+.title__chapter--big {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.div__chapter--blur {
+    filter: blur(2px);
+}
+
+.p__lead--bigger-font {
+    font-size: 1.3rem;
 }
