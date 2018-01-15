@@ -99,3 +99,8 @@
     font-weight: 400;
     font-size: 1em;
 }
+
+.footer--custom-padding {
+    padding-top: 0;
+    padding-bottom: 3rem;
+}
