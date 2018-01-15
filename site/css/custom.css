@@ -65,3 +65,37 @@
     margin-top: 3em;
     margin-bottom: 2em;
 }
+
+.btn__header--no-margin-bottom {
+    margin-bottom: 0 !important;
+}
+
+.btn--enlarged {
+    font-size: 1.3rem;
+    line-height: 2.2rem;
+}
+
+.bg--secondary-2 {
+    background: #f2f2f2;
+}
+
+.grow {
+    transition: 1s ease;
+}
+
+.grow:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    transition: 1s ease;
+}
+
+.p__feature--no-margin-bottom {
+    margin-bottom: 0;
+}
+
+.p__feature--reset {
+    color: #666666;
+    font-weight: 400;
+    font-size: 1em;
+}
