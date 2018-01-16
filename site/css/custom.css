@@ -64,6 +64,9 @@
 .feature__article--margin {
     margin-top: 3em;
     margin-bottom: 2em;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    border-radius: 2%;
 }
 
 .btn__header--no-margin-bottom {
@@ -127,4 +130,26 @@
 
 .p__lead--bigger-font {
     font-size: 1.3rem;
+}
+
+#sticker > .nav-sidebar-column {
+    position: absolute;
+    height: auto;
+}
+
+.article-container {
+    width: calc(100% - 286px);
+    float: right;
+    overflow: hidden;
+}
+
+@media only screen and (max-width: 900px) {
+    .article-container {
+        width: 100%;
+    }
+}
+
+.author-image img {
+    border-radius: 50%;
+    max-width: 80px;
 }
